@@ -14,7 +14,7 @@ import "./App.css";
 // }
 import axios from "axios";
 import Smurfs from "./Smurfs";
-import addSmurfs from "../addSmurfs";
+import addSmurfs from "./contexts/addSmurfs";
 import smurfContext from "./contexts/smurfContext";
 
 
